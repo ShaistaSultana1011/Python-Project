@@ -46,6 +46,5 @@ Go to Google Account Security
 
 Enable 2-Step Verification
 
-Under "App passwords", generate a password
+Under "App passwords", generate a password.
 
-Replace this app password in the script:
